@@ -22,7 +22,7 @@ For a detailed explanation and documentation on how MQ-Ansible works, click [her
 
 ## Requirements
 
-- `ansible`, `passlib` and `ansible-lint` are required on your local machine to run playbooks implementing this collection.
+- `ansible` and `ansible-lint` are required on your local machine to run playbooks implementing this collection.
 - a target machine of any of the supported platforms:
   - Ubuntu
   - RedHat
